@@ -1,21 +1,17 @@
-# Customer Churn & Segmentation Dashboard
-
-## Overview
-
-This independent Business Analysis project demonstrates requirements gathering, stakeholder analysis, business documentation, and Agile planning using Confluence and Jira.
-
-## Power BI Dashboard
-
+## Dashboard Preview
+ 
+![Customer Churn & Segmentation Dashboard](Screenshot%202026-10-08
+ 
 This dashboard was developed using Power BI to transform customer analytics findings into actionable business insights.
-
+ 
 Key features include:
-
+ 
 - Revenue by Country
 - Monthly Revenue Trend
 - Customer Segmentation (RFM Analysis)
 - Customer Retention Insights
 - Segment Performance Analysis
-
+ 
 The dashboard enables users to identify customer segments, monitor revenue trends, evaluate retention opportunities, and support customer-focused business decisions.
 
 ## Business Problem
