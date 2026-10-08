@@ -4,6 +4,20 @@
 
 This independent Business Analysis project demonstrates requirements gathering, stakeholder analysis, business documentation, and Agile planning using Confluence and Jira.
 
+## Power BI Dashboard
+
+This dashboard was developed using Power BI to transform customer analytics findings into actionable business insights.
+
+Key features include:
+
+- Revenue by Country
+- Monthly Revenue Trend
+- Customer Segmentation (RFM Analysis)
+- Customer Retention Insights
+- Segment Performance Analysis
+
+The dashboard enables users to identify customer segments, monitor revenue trends, evaluate retention opportunities, and support customer-focused business decisions.
+
 ## Business Problem
 
 Retention teams often rely on manual reporting and ad hoc analysis to understand customer behavior and churn risk. This project defines requirements for a centralized dashboard supporting retention-focused decision making.
