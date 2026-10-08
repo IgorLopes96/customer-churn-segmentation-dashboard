@@ -1,6 +1,6 @@
 ## Dashboard Preview
- 
-powerbi_dashboard.png
+
+![Customershboard.png
  
 This dashboard was developed using Power BI to transform customer analytics findings into actionable business insights.
  
