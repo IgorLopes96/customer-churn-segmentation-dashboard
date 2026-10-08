@@ -1,6 +1,6 @@
 ## Dashboard Preview
  
-![Customer Churn & Segmentation Dashboard](Screenshot%202026-10-08
+powerbi_dashboard.png
  
 This dashboard was developed using Power BI to transform customer analytics findings into actionable business insights.
  
